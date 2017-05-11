@@ -7,7 +7,7 @@ This is a python implementation of Factorization Machines [1]. This uses stochas
 
 ## Installation
 ```
-pip install git+https://github.com/coreylynch/pyFM
+pip install git+https://github.com/WLZhong/pyFM
 ```
 
 ## Dependencies
